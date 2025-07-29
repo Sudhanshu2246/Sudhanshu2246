@@ -1,4 +1,4 @@
-# 💫 About Me: Hello👋! I am Sudhanshu .
+# 💫 Hello👋! I am Sudhanshu .
 <img align="right" height="150" src="https://i.pinimg.com/originals/16/02/b2/1602b26c05ee78120695d592a68b8912.gif"  />
 🔭 I’m a web application developer<br>🌱 I’m currently learning nextjs while also improving my web dev skills<br>💬 Ask me about React and Node<br>⚡ Fun fact I like moveis, so does everyone
 
