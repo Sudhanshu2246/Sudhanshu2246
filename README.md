@@ -10,7 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu2246&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sudhanshu2246&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 <img height="150" src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif"  />
 
