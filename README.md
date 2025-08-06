@@ -3,6 +3,8 @@
 🔭 I’m a web application developer<br>🌱 I’m currently learning nextjs while also improving my web dev skills<br>💬 Ask me about React and Node<br>⚡ Fun fact I like moveis.
 
 
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sudhanshu-gaur-233726228/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudhanshu2246@gmail.com) 
 
@@ -24,4 +26,4 @@
 [![](https://visitcount.itsvg.in/api?id=Sudhanshu2246&icon=6&color=0)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
