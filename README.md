@@ -77,11 +77,6 @@
 
 ---
 
-## 📅 GitHub Contribution Calendar
-
-![](https://ghchart.rshah.org/Sudhanshu2246)
-
----
 
 ## 👀 Profile Views
 
